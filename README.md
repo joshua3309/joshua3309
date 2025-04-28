@@ -45,6 +45,7 @@ Built an end-to-end deployment pipeline using Terraform and GitHub Actions for s
 ---
 
 🏅 Certifications
+
 AWS Certified Solutions Architect – Associate
 
 AWS Certified Cloud Practitioner
