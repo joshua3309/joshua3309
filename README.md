@@ -30,7 +30,7 @@ Version Control: Git, GitHub
 
 ### 🚀 Featured Projects
 
-#### *1. High Availability & Scalable Web Server Architecture for Social Research Data (AWS)
+#### *1. High Availability & Scalable Web Server Architecture for Social Research Data (AWS)*
 Designed and deployed a resilient web server architecture using EC2, Auto Scaling Groups, Elastic Load Balancer, and Route 53 across multiple Availability Zones with Apache (httpd). Integrated with Amazon RDS (MySQL) for secure, scalable data storage. Applied AWS Secrets Manager for credential security, imported SQL dump into RDS, and used ACM for HTTPS. Backend and app servers are isolated via security groups, with traffic routed through the load balancer to ensure high availability and 99.99% uptime. 
 [GitHub Repo](https://github.com/joshua3309/high-availability-scalable-web-server) | [Video Walkthrough](https://youtu.be/YOUR_VIDEO_ID)
 
