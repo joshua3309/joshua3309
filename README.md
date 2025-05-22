@@ -36,7 +36,7 @@ Designed and deployed a resilient web server architecture using EC2, Auto Scalin
 
 ### *2. Breaking a Monolithic Node.js Application into Microservices (Docker & AWS ECS on EC2)*
 Re-architected and deployed an existing Node.js message board application by containerizing its prebuilt microservices (thread, post, and comment services) and organizing them for scalable deployment. Designed and implemented the infrastructure using Docker and Amazon ECS (EC2 launch type), with images hosted on Amazon ECR. Set up an Application Load Balancer (ALB) to route HTTP traffic directly to each microservice, simplifying access without the need for an API gateway. Configured ECS task definitions, IAM roles with least-privilege access, and EC2 instances to enable reliable orchestration, service isolation, and efficient scaling across multiple containers
-[GitHub Repo](Breaking-a-Monolithic-Node.js-Application-into-Microservices-Docker-AWS-ECS-on-Ec2-) | [Video Walkthrough](https://youtu.be/YOUR_VIDEO_ID)
+[GitHub Repo](https://github.com/joshua3309/Breaking-a-Monolithic-Node.js-Application-into-Microservices-Docker-AWS-ECS-on-EC2-) | [Video Walkthrough](https://youtu.be/YOUR_VIDEO_ID)
 
 #### *2. Serverless ETL Pipeline (AWS Glue + Redshift)*
 Automated data ingestion from S3, transformation with Glue, and loading into Redshift. Integrated Lambda for event-based triggers and CloudWatch for monitoring.  
