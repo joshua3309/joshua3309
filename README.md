@@ -40,7 +40,7 @@ Re-architected and deployed an existing Node.js message board application by con
 
 ### *3. Serverless Inventory Management System (AWS)*
 Built a fully serverless inventory tracking system across multiple store locations using AWS Lambda, Amazon S3, DynamoDB, SNS, and Cognito. Designed to automatically process uploaded inventory files, store stock counts in a DynamoDB table, send real-time notifications for out-of-stock items, and display live inventory on a secured dashboard. Lambda functions handle data ingestion and stock checks, while Cognito secures dashboard access. This architecture eliminates server overhead, scales automatically, and ensures cost-efficient operation.
-GitHub Repo | Architecture Diagram | Live Demo (optional)
+[GitHub Repo](https://github.com/joshua3309/Serverless-Inventory-Management-System-AWS-) Architecture Diagram | Live Demo 
 
 #### *2. Serverless ETL Pipeline (AWS Glue + Redshift)*
 Automated data ingestion from S3, transformation with Glue, and loading into Redshift. Integrated Lambda for event-based triggers and CloudWatch for monitoring.  
